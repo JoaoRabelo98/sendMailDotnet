@@ -15,8 +15,8 @@ namespace teste
 
       mail.From = new MailAddress(origin);
       mail.To.Add("joaorabello99@gmail.com"); // para
-      mail.Subject = "Teste"; // assunto
-      mail.Body = "Testando mensagem de e-mail"; // mensagem
+      mail.Subject = "Aviso urgente - Instabilidade Protocolo"; // assunto
+      mail.Body = $"E-mail automático de aviso. Às {DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss")} foi realizado uma requisão com falha."; // mensagem
 
       using (var smtp = new SmtpClient("smtp.gmail.com"))
       {

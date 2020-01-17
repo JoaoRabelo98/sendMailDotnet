@@ -1,0 +1,11 @@
+C:\Users\joaor\OneDrive\Área de Trabalho\sendMailDotnet\bin\Debug\netcoreapp3.1\sendMailDotnet.exe
+C:\Users\joaor\OneDrive\Área de Trabalho\sendMailDotnet\bin\Debug\netcoreapp3.1\sendMailDotnet.deps.json
+C:\Users\joaor\OneDrive\Área de Trabalho\sendMailDotnet\bin\Debug\netcoreapp3.1\sendMailDotnet.runtimeconfig.json
+C:\Users\joaor\OneDrive\Área de Trabalho\sendMailDotnet\bin\Debug\netcoreapp3.1\sendMailDotnet.runtimeconfig.dev.json
+C:\Users\joaor\OneDrive\Área de Trabalho\sendMailDotnet\bin\Debug\netcoreapp3.1\sendMailDotnet.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\sendMailDotnet\bin\Debug\netcoreapp3.1\sendMailDotnet.pdb
+C:\Users\joaor\OneDrive\Área de Trabalho\sendMailDotnet\obj\Debug\netcoreapp3.1\sendMailDotnet.csprojAssemblyReference.cache
+C:\Users\joaor\OneDrive\Área de Trabalho\sendMailDotnet\obj\Debug\netcoreapp3.1\sendMailDotnet.AssemblyInfoInputs.cache
+C:\Users\joaor\OneDrive\Área de Trabalho\sendMailDotnet\obj\Debug\netcoreapp3.1\sendMailDotnet.AssemblyInfo.cs
+C:\Users\joaor\OneDrive\Área de Trabalho\sendMailDotnet\obj\Debug\netcoreapp3.1\sendMailDotnet.dll
+C:\Users\joaor\OneDrive\Área de Trabalho\sendMailDotnet\obj\Debug\netcoreapp3.1\sendMailDotnet.pdb
